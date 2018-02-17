@@ -1,0 +1,2 @@
+source usr/lib/nodejs/binaryextensions/
+package.json usr/lib/nodejs/binaryextensions/

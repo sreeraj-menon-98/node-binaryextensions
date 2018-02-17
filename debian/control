@@ -1,0 +1,24 @@
+Source: node-binaryextensions
+Section: javascript
+Priority: optional
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Uploaders: SREERAJ R MENON <sreerajmenonseeraj@gmail.com>
+Build-Depends:
+ debhelper (>= 9)
+ , dh-buildinfo
+ , nodejs
+Standards-Version: 4.1.3
+Homepage: https://github.com/bevry/binaryextensions
+Vcs-Git: https://anonscm.debian.org/git/pkg-javascript/node-binaryextensions.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-javascript/node-binaryextensions.git
+
+Package: node-binaryextensions
+Architecture: all
+Depends:
+ ${misc:Depends}
+ , nodejs
+Description: Array of binary extensions 
+ A package that contains an array of every single file extension there is for 
+ binary files
+ .
+ Node.js is an event-based server-side JavaScript engine.
