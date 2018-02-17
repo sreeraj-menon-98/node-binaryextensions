@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
 Uploaders: SREERAJ R MENON <sreerajmenonseeraj@gmail.com>
 Build-Depends:
- debhelper (>= 9)
+ debhelper (>= 11)
  , dh-buildinfo
  , nodejs
 Standards-Version: 4.1.3
