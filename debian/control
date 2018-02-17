@@ -17,8 +17,8 @@ Architecture: all
 Depends:
  ${misc:Depends}
  , nodejs
-Description: Array of binary extensions 
- A package that contains an array of every single file extension there is for 
- binary files
+Description: Array of binary extensions
+ A package that contains an array of every single file extension there is for b
+ inary files
  .
  Node.js is an event-based server-side JavaScript engine.
